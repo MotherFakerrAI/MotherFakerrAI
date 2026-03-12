@@ -1,22 +1,22 @@
 <p align="center">
-  <h1 align="center">MotherFaker Studio</h1>
-  <p align="center">Create & Ship Interesting Ideas</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0,0,0&height=200&section=header&text=MOTHERFAKER%20STUDIO&fontSize=50&fontAlignY=35&fontColor=ffffff&desc=100%25%20AI%20Staff%20·%20Zero%20Human%20Excuses&descSize=18&descAlignY=65&descAlignX=50" alt="Banner"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/MotherFakerrAI/motherfaker-studio-docs">
-    <img src="https://img.shields.io/badge/Docs-000?style=flat&logo=github" alt="Docs"/>
-  </a>
-  <a href="https://github.com/MotherFakerrAI/code-standards">
-    <img src="https://img.shields.io/badge/Standards-000?style=flat&logo=github" alt="Standards"/>
-  </a>
+
+![Status](https://img.shields.io/badge/🟢-ONLINE-green?style=for-the-badge)
+![AI-Native](https://img.shields.io/badge/🤖-AI--NATIVE-blue?style=for-the-badge)
+![Ship Fast](https://img.shields.io/badge/⚡-SHIP%20FAST-yellow?style=for-the-badge)
+
 </p>
 
 ---
 
-## About
+## 🎯 Mission
 
-**100% AI-driven development team** building interesting ideas and shipping fast.
+> Create & Ship Interesting Ideas
+
+**100% AI-driven development team** — No coffee breaks, no human errors, just code.
 
 | Role | Function |
 |------|----------|
@@ -27,31 +27,48 @@
 
 ---
 
-## Projects
+## 📦 Project Portfolio
 
-**AI Agents**
+**🤖 AI Agents**
 
-- [copilotkit-langgraph](https://github.com/MotherFakerrAI/copilotkit-langgraph) — CopilotKit + LangGraph AI Matrix
-- [code-reviewer](https://github.com/MotherFakerrAI/code-reviewer) — AI Code Review Assistant
-- [agent-tracker](https://github.com/MotherFakerrAI/agent-tracker) — Agent Task Tracker
-- [travel-planner](https://github.com/MotherFakerrAI/travel-planner) — AI Travel Planning
+[**copilotkit-langgraph**](https://github.com/MotherFakerrAI/copilotkit-langgraph)
+> CopilotKit + LangGraph AI Matrix
 
-**Creative**
+[**code-reviewer**](https://github.com/MotherFakerrAI/code-reviewer)
+> AI Code Review Assistant
 
-- [keyboard-piano](https://github.com/MotherFakerrAI/keyboard-piano) — Keyboard Piano + Particle FX
-- [cyber-wishing-pool](https://github.com/MotherFakerrAI/cyber-wishing-pool) — Cyberpunk Wishing Pool
+[**agent-tracker**](https://github.com/MotherFakerrAI/agent-tracker)
+> Agent Task Tracker
 
-**Tools**
+**🎨 Creative**
 
-- [progress-tracker](https://github.com/MotherFakerrAI/progress-tracker) — Real-time Project Dashboard
-- [code-standards](https://github.com/MotherFakerrAI/code-standards) — Code Standards + ESLint
+[**keyboard-piano**](https://github.com/MotherFakerrAI/keyboard-piano)
+> Keyboard Piano + Particle FX
 
-**Docs**
+[**cyber-wishing-pool**](https://github.com/MotherFakerrAI/cyber-wishing-pool)
+> Cyberpunk Wishing Pool
 
-- [motherfaker-studio-docs](https://github.com/MotherFakerrAI/motherfaker-studio-docs) — Documentation Hub
+**🛠️ Tools & Docs**
+
+[**progress-tracker**](https://github.com/MotherFakerrAI/progress-tracker) · [**code-standards**](https://github.com/MotherFakerrAI/code-standards) · [**docs**](https://github.com/MotherFakerrAI/motherfaker-studio-docs)
+
+---
+
+## ⚡ Tech Stack
+
+```
+Frontend  → Next.js · TypeScript · React
+AI/Agent  → CopilotKit · LangGraph · Groq
+Backend   → FastAPI · Python · Node.js
+Deploy    → Vercel · GitHub Actions
+```
 
 ---
 
 <p align="center">
-  <sub>MotherFaker Studio · Est. 2025</sub>
+  <sub>Made with 💙 by MotherFaker Studio</sub>
+</p>
+
+<p align="center">
+  <sub>Est. 2025 · All Models On Duty · No Coffee Breaks</sub>
 </p>
